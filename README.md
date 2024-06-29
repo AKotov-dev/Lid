@@ -9,4 +9,4 @@ Many times during the process of installing Linux on laptops, I came across the 
 + Reset - Cancel and return settings to default
 + Apply - Apply settings set manually
 
-`Lid` is made in the form of two archives, the choice of which depends on the bit depth of your system architecture: unpack and run`StartAsRoot` (so as not to bother going to the console and running with root privileges). The interface is intuitive and does not require additional explanation.
+`Lid` is made in the form of two archives, the choice of which depends on the system architecture: unpack and run`StartAsRoot` (so as not to bother going to the console and running with root privileges). The interface is intuitive and does not require additional explanation.
