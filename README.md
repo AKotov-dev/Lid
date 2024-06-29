@@ -10,3 +10,5 @@ Many times during the process of installing Linux on laptops, I came across the 
 + Apply - Apply settings set manually
 
 `Lid` is made in the form of two archives, the choice of which depends on the system architecture: unpack and run`StartAsRoot` (so as not to bother going to the console and running with root privileges). The interface is intuitive and does not require additional explanation.
+
+**Note:** Before use `Lid`, make sure your DE may already have the necessary settings.
